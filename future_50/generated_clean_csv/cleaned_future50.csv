@@ -1,0 +1,51 @@
+Rank,Restaurant,Location,Sales,YOY_Sales,Units,YOY_Units,Unit_Volume,Franchising,City
+1,Evergreens,"Seattle, Wash.",24,130.5,26,116.7,1150,0,Seattle
+2,Clean Juice,"Charlotte, N.C.",44,121.9,105,94.4,560,1,Charlotte
+3,Slapfish,"Huntington Beach, Calif.",21,81.0,21,90.9,1370,1,Huntington Beach
+4,Clean Eatz,"Wilmington, N.C.",25,79.7,46,58.6,685,1,Wilmington
+5,Pokeworks,"Irvine, Calif.",49,77.1,50,56.3,1210,1,Irvine
+6,Playa Bowls,"Belmar,  N.J.",39,62.9,76,28.8,580,1,Belmar
+7,The Simple Greek,"Blue Bell, Pa.",24,52.5,36,33.3,775,1,Blue Bell
+8,Melt Shop,"New York, N.Y.",20,39.6,19,35.7,1260,1,New York
+9,Creamistry,"Yorba Linda,  Calif.",24,36.8,60,27.7,465,1,Yorba Linda
+10,Joella's Hot Chicken,"Louisville, Ky.",29,35.5,17,30.8,1930,0,Louisville
+11,Eggs Up Grill,"Spartanburg, S.C.",30,35.4,41,36.7,860,1,Spartanburg
+12,Dog Haus,"Pasadena, Calif.",39,34.5,50,42.9,1200,1,Pasadena
+13,Teriyaki Madness,"Denver, Colo.",41,34.1,63,65.8,890,1,Denver
+14,Bluestone Lane,"New York, N.Y.",48,33.0,48,37.1,1175,0,New York
+15,Original ChopShop,"Plano, Texas",21,32.5,12,20.0,1930,0,Plano
+16,Rapid Fired Pizza,"Kettering, Ohio",24,32.2,35,29.6,780,1,Kettering
+17,Ike's Love & Sandwiches,"San Francisco, Calif.",44,30.8,71,29.1,700,1,San Francisco
+18,Vitality Bowls,"San Ramon, Calif.",37,30.1,77,24.2,535,1,San Ramon
+19,Hawkers Asian Street Fare,"Orlando, Fla.",22,30.0,7,40.0,3800,0,Orlando
+20,Maple Street Biscuit Co.,"Orange Park, Fla.",39,28.9,33,10.0,1260,1,Orange Park
+21,Bulla Gastrobar,"Doral, Fla.",32,28.2,8,14.3,4300,0,Doral
+22,Duck Donuts,"Mechanicsburg, Pa.",44,28.0,90,16.9,530,1,Mechanicsburg
+23,The Little Beet,"New York, N.Y.",23,26.5,12,33.3,2230,0,New York
+24,Joe & The Juice,"New York, N.Y.",47,25.9,69,25.5,760,1,New York
+25,By Chloe,"New York, N.Y.",37,25.6,14,7.7,2800,0,New York
+26,Sugarfire Smokehouse,"Olivette, Mo.",39,25.4,15,15.4,2820,0,Olivette
+27,Bibibop Asian Grill,"Columbus, Ohio",44,24.6,37,23.3,1330,0,Columbus
+28,Bubbakoo's Burritos,"Wall Township, N.J.",28,24.3,31,14.8,970,1,Wall Township
+29,Dos Toros Taqueria,"New York, N.Y.",28,24.0,22,10.0,1375,0,New York
+30,The Pizza Press,"Anaheim, Calif.",27,23.7,27,22.7,1130,1,Anaheim
+31,The Lost Cajun,"Frisco, Texas",20,23.0,26,4.0,785,1,Frisco
+32,Just Salad,"New York, N.Y.",42,22.7,38,26.7,1240,0,New York
+33,Jeni's Splendid Ice Creams,"Columbus, Ohio",42,22.4,44,22.2,1050,0,Columbus
+34,Boqueria,"New York, N.Y.",27,22.0,7,16.7,4260,0,New York
+35,Quickway Japanese Hibachi,"Fairfax, Va.",22,21.4,25,19.0,985,1,Fairfax
+36,Surcheros,"Douglas, Ga.",22,21.3,20,17.6,1230,1,Douglas
+37,Famous Toastery,"Charlotte, N.C.",40,21.2,27,8.0,1540,1,Charlotte
+38,Culinary Dropout,"Scottsdale, Ariz.",20,20.8,7,16.7,3120,0,Scottsdale
+39,Condado Tacos,"Columbus, Ohio",38,19.9,15,15.4,2755,0,Columbus
+40,The Flying Biscuit Cafe,"Atlanta, Ga.",29,19.5,21,16.7,1510,1,Atlanta
+41,Blue Sushi Sake Grill,"Omaha, Neb.",49,19.5,14,16.7,3500,0,Omaha
+42,The Human Bean,"Medford, Ore.",47,19.0,97,19.8,535,1,Medford
+43,Spitz Mediterranean Street Food,"Los Angeles, Calif.",28,18.8,11,10.0,2700,0,Los Angeles
+44,Tacos 4 Life,"Conway, Ark.",25,18.4,16,6.7,1620,1,Conway
+45,Pita Mediterranean Street Food,"Fairburn, Ga.",38,17.8,32,10.3,1260,1,Fairburn
+46,LA Crawfish,"McAllen, Texas",48,17.6,25,13.6,2050,1,McAllen
+47,&pizza,"Washington, D.C.",45,17.1,35,9.4,1350,0,Washington
+48,Super Duper Burgers,"San Francisco, Calif.",39,16.9,16,14.3,2630,0,San Francisco
+49,StoneFire Grill,"Agoura Hills, Calif.",31,16.0,13,8.3,2550,0,Agoura Hills
+50,Gus's World Famous Fried Chicken,"Memphis, Tenn.",44,14.4,28,7.7,1600,1,Memphis

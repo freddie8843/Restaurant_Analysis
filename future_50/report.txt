@@ -1,0 +1,40 @@
+Future 50 Restaurant Analysis Report
+
+
+First 5 Rows of Dataset:
+   Rank   Restaurant  ... Unit_Volume  Franchising
+0     1   Evergreens  ...        1150           No
+1     2  Clean Juice  ...         560          Yes
+2     3     Slapfish  ...        1370          Yes
+3     4   Clean Eatz  ...         685          Yes
+4     5    Pokeworks  ...        1210          Yes
+
+[5 rows x 9 columns]
+
+Top 10 Fastest-Growing Restaurants:
+          Restaurant  YOY_Sales
+          Evergreens      130.5
+         Clean Juice      121.9
+            Slapfish       81.0
+          Clean Eatz       79.7
+           Pokeworks       77.1
+         Playa Bowls       62.9
+    The Simple Greek       52.5
+           Melt Shop       39.6
+          Creamistry       36.8
+Joella's Hot Chicken       35.5
+
+Top 10 Highest Revenue per Unit:
+                     Restaurant  Unit_Volume
+                Bulla Gastrobar         4300
+                       Boqueria         4260
+      Hawkers Asian Street Fare         3800
+          Blue Sushi Sake Grill         3500
+               Culinary Dropout         3120
+           Sugarfire Smokehouse         2820
+                       By Chloe         2800
+                  Condado Tacos         2755
+Spitz Mediterranean Street Food         2700
+            Super Duper Burgers         2630
+
+Analysis Completed! Cleaned data and insights saved.
