@@ -1,0 +1,53 @@
+ Independent 100 Restaurant Analysis Report
+
+
+ First 5 Rows of Dataset:
+   Rank                           Restaurant  ...  State  Meals Served
+0     1             Carmine's (Times Square)  ...   N.Y.      469803.0
+1     2                The Boathouse Orlando  ...   Fla.      820819.0
+2     3                     Old Ebbitt Grill  ...   D.C.      892830.0
+3     4  LAVO Italian Restaurant & Nightclub  ...   N.Y.      198500.0
+4     5             Bryant Park Grill & Cafe  ...   N.Y.      403000.0
+
+[5 rows x 7 columns]
+
+ Top 10 Restaurants by Sales:
+                         Restaurant      Sales
+           Carmine's (Times Square) 39080335.0
+              The Boathouse Orlando 35218364.0
+                   Old Ebbitt Grill 29104017.0
+LAVO Italian Restaurant & Nightclub 26916180.0
+           Bryant Park Grill & Cafe 26900000.0
+           Gibsons Bar & Steakhouse 25409952.0
+     Top of the World at the STRAT  25233543.0
+                        Maple & Ash 24837595.0
+                          Balthazar 24547800.0
+                  Smith & Wollensky 24501000.0
+
+ Top 10 Restaurants by Highest Average Check:
+                Restaurant  Average Check
+                 Del Posto          194.0
+          Prime Steakhouse          173.0
+             SW Steakhouse          149.0
+                 Prime 112          135.0
+        Prime & Provisions          130.0
+              Swift & Sons          119.0
+Bazaar Meat by Jose Andres          119.0
+             Quality Meats          115.0
+           BOA Steakhouse           110.0
+            Gibsons Italia          108.0
+
+ Top 10 Restaurants by Meals Served:
+                         Restaurant  Meals Served
+           Zehnder's of Frankenmuth        959026
+            Junior's (Times Square)        914500
+           Frankenmuth Bavarian Inn        899284
+                   Old Ebbitt Grill        892830
+              The Boathouse Orlando        820819
+             Junior's (49th Street)        798000
+                       The Hamilton        700861
+Founding Farmers (Washington, D.C.)        648096
+             Bob Chinn's Crab House        625907
+      Harris Ranch Inn & Restaurant        611928
+
+ Analysis Completed! Cleaned data and insights saved.

@@ -1,0 +1,30 @@
+Top 250 Restaurant Analysis Report
+
+
+ First 5 Rows of Dataset:
+   Rank   Restaurant  ... Headquarters             Segment_Category
+0     1   McDonald's  ...          NaN       Quick Service & Burger
+1     2    Starbucks  ...          NaN  Quick Service & Coffee Cafe
+2     3  Chick-fil-A  ...          NaN      Quick Service & Chicken
+3     4    Taco Bell  ...          NaN      Quick Service & Mexican
+4     5  Burger King  ...          NaN       Quick Service & Burger
+
+[5 rows x 9 columns]
+
+ Top 10 Restaurants by Sales:
+ Restaurant  Sales
+Tim Hortons  714.0
+
+ Top 10 Restaurants by YOY Sales Growth:
+ Restaurant  YOY_Sales
+Tim Hortons       -3.5
+
+ Top 10 Restaurants by Total Units:
+ Restaurant  Units
+Tim Hortons    715
+
+ Top 10 Restaurants by YOY Unit Growth:
+ Restaurant  YOY_Units
+Tim Hortons       -1.7
+
+ Analysis Completed! Cleaned data and insights saved.

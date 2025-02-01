@@ -11,9 +11,9 @@ for directory in directories:
     if not os.path.exists(directory):
         os.makedirs(directory)
 
-# Redirect console output to a file (report.txt)
+# Redirect console output to a file (report_future50.txt)
 class Logger(object):
-    def __init__(self, filename="report.txt"):
+    def __init__(self, filename="report_future50.txt"):
         self.terminal = sys.stdout
         self.log = open(filename, "w")  # Open in write mode
 
@@ -25,7 +25,7 @@ class Logger(object):
         pass
 
 # Apply redirection
-sys.stdout = Logger("report.txt")
+sys.stdout = Logger("report_future50.txt")
 
 print("Future 50 Restaurant Analysis Report\n")
 
@@ -118,5 +118,3 @@ print("\nAnalysis Completed! Cleaned data and insights saved.")
 
 # Restore default console output
 sys.stdout = sys.__stdout__
-
-#end of code
