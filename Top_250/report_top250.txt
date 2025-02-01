@@ -12,19 +12,55 @@ Top 250 Restaurant Analysis Report
 [5 rows x 9 columns]
 
  Top 10 Restaurants by Sales:
- Restaurant  Sales
-Tim Hortons  714.0
+  Restaurant  Sales
+  McDonald's  40412
+   Starbucks  21380
+ Chick-fil-A  11320
+   Taco Bell  11293
+ Burger King  10204
+      Subway  10200
+     Wendy's   9762
+     Dunkin'   9228
+    Domino's   7044
+Panera Bread   5890
 
  Top 10 Restaurants by YOY Sales Growth:
- Restaurant  YOY_Sales
-Tim Hortons       -3.5
+                    Restaurant  YOY_Sales
+           Chicken Salad Chick       39.5
+                   Metro Diner       36.3
+                   First Watch       35.1
+                   Shake Shack       31.8
+    Walk-On's Sports Bistreaux       27.8
+                   Mission BBQ       25.0
+Raising Cane's Chicken Fingers       23.8
+                     MOD Pizza       23.8
+        Tropical Smoothie Cafe       21.8
+     Lazy Dog Restaurant & Bar       21.3
 
  Top 10 Restaurants by Total Units:
  Restaurant  Units
-Tim Hortons    715
+     Subway  23801
+  Starbucks  15049
+ McDonald's  13846
+    Dunkin'   9630
+Burger King   7346
+  Pizza Hut   7306
+  Taco Bell   6766
+   Domino's   6126
+    Wendy's   5852
+Dairy Queen   4381
 
  Top 10 Restaurants by YOY Unit Growth:
- Restaurant  YOY_Units
-Tim Hortons       -1.7
+                        Restaurant  YOY_Units
+               Chicken Salad Chick       38.5
+        Walk-On's Sports Bistreaux       37.5
+                 True Food Kitchen       28.0
+                       Shake Shack       27.2
+                       First Watch       24.7
+                       Mission BBQ       21.6
+         Lazy Dog Restaurant & Bar       20.0
+                         MOD Pizza       18.2
+Cooper's Hawk Winery & Restaurants       17.1
+            Tropical Smoothie Cafe       16.0
 
  Analysis Completed! Cleaned data and insights saved.
